@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8139
     wikipedia: http://en.wikipedia.org/wiki/Joshua_Coffin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18601#An-Account-of-Some-of-the-Principal-Slave-Insurrections-United-States-and-Elsewhere-During-th_
 gutenberg_issued: '2006-06-16'
 gutenberg_type: Text
 identifiers:
